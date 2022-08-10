@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+.profile{
+  display: flex;
+  justify-content:space-around;
+  margin-left: auto;
+
+}
+.image{
+  border-radius: 50%;
+  height: 40px;
+  width:40px;
+  object-fit: cover;
+}
+.profilename{
+  padding-left: 180px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.list{
+  font-weight: bold;
+  font-size: 25px;
+}
+.barcolor{
+  background-color:rgb(4, 31, 56);
+  
+}
+/* .change:hover{
+  background-color:rgb(159, 170, 181); 
+} */

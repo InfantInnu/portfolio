@@ -1,0 +1,54 @@
+.contactHead{
+    color: white;
+    color: #fff !important;
+    font-family: Poppins,sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    padding-top: 65px;
+}
+.contactDetails{
+    margin-top: 40px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.number{
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid red;
+    width: 280px;
+    padding: 10px;
+    
+}
+.mailDetail{
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid red;
+    width: 480px;
+    padding: 10px;
+    margin-top: 30px;
+}
+.location{
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid red;
+    width: 550px;
+    padding: 10px;
+    margin-top: 30px;
+}
+.linkedinContact{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.size{
+    height: 300px;
+    
+}

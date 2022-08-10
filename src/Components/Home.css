@@ -1,0 +1,32 @@
+.content{
+    margin-bottom: 75px;
+    justify-content:center;
+    align-items:center;
+    color: white;
+    
+    
+}
+body{
+    background-color:rgb(4, 31, 56);
+}
+.github-linkedin{
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    width: 80%;
+}
+.ownername{
+    font-size:50px;
+}
+
+.homepage{
+    align-items: center;
+    align-content: center;
+    /* margin-left: 35%; */
+    margin-top: 100px;
+}
+.imgflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
