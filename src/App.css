@@ -49,8 +49,8 @@
   object-fit: cover;
 }
 .profilename{
-  padding-left: 180px;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-right:15px;
+  font-family:Cambria, Cochin, Georgia, Times, serif;
 }
 .list{
   font-weight: bold;

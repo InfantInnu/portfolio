@@ -6,7 +6,7 @@ export default function Skills(){
         <section id="skills">
             <div className="container" id="skills-container">
                 <div className="row">
-                <h2 className="skills-title text-center">MY SKILLS</h2>
+                <h2 className="skills-title text-center">TECHNICAL SKILLS</h2>
                     <div className="col-12">
                         <div className="technologies-container">
                             <div className="technologies" style={{backgroundColor:"rgb(148,89,21)"}}>HTML <i className="fa-brands fa-html5"></i></div>

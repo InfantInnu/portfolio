@@ -23,7 +23,7 @@ function App() {
          <Button color="inherit" onClick={() => Navigate("/Projects")}>Projects</Button>
          <Button color="inherit" onClick={() => Navigate("/Contact")}>Contact</Button>
               <div className="profile">
-                <h4 className="profilename">Infant Y</h4>
+                <h4 className="profilename">Infant  </h4>
               <img className="image" src={profile} alt=""/>
             </div>
        </Toolbar>
