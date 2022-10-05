@@ -18,7 +18,7 @@ function Home() {
  
  <a href="https://github.com/InfantInnu"  target="_blank"className="btn btn-outline-secondary av"><i className="bi bi-github" style={{color:"rgb(65, 201, 255)"}}></i> Github</a>
  <a href="https://www.linkedin.com/in/infant-y-ba0a99196"  target="_blank"className="btn btn-outline-secondary av"><i className="bi bi-linkedin" style={{color:"rgb(65, 201, 255)"}}></i> LinkedIn</a>
- <a href="https://drive.google.com/file/d/1HnV9Pj4yIGRRde-2pSy8r3-oWbMvpSYM/view" target="_blank"type="button" className="btn btn-outline-secondary av">View My CV. <i className="bi bi-box-arrow-up-right" style={{color:"rgb(65, 201, 255)"}}></i></a>
+ <a href="https://drive.google.com/file/d/1FSbS1W3zzI5QVVeaCGYDxw6drtf2troL/view?usp=sharing" target="_blank"type="button" className="btn btn-outline-secondary av">View My CV. <i className="bi bi-box-arrow-up-right" style={{color:"rgb(65, 201, 255)"}}></i></a>
  </div></div>
  <div className='working'>
   <img src={work} alt=""/>

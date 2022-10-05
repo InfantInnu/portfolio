@@ -19,7 +19,7 @@ export default function About() {
       skills for mutual growth and benefit of company and myself.
       </p>
      <div className='resume-click'>
-      <a href="https://drive.google.com/file/d/1HnV9Pj4yIGRRde-2pSy8r3-oWbMvpSYM/view" target="_blank" rel="noreferrer"type="button" className="btn btn-outline-secondary av">Resume </a></div>
+      <a href="https://drive.google.com/file/d/1FSbS1W3zzI5QVVeaCGYDxw6drtf2troL/view?usp=sharing" target="_blank" rel="noreferrer"type="button" className="btn btn-outline-secondary av">Resume </a></div>
     </div>
     <div className='about-img'>
   <img src={about} alt=""/></div>
