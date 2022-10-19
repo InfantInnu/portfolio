@@ -18,7 +18,7 @@ export default function MediaCard() {
         <div className="credential">
             <h4 className='dot'>Credentials</h4>
             <p>User Id : user@gmail.com - Password : user@123</p>
-            <p>Admin Id : admin@gmail.com - Password : admin@123</p>
+            <p>Admin Id : admin@admin.com - Password : admin123</p>
         </div>
         <div class="container">
             <div class="row">
