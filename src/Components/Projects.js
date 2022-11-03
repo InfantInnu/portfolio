@@ -59,7 +59,7 @@ export default function MediaCard() {
                         <span>Blog app is build for the memories or some content updated in the website  </span></div>
                         <div className='click'>
                         <a href="https://github.com/InfantInnu/blog-frontend" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av"><i className="bi bi-github" style={{color:"blue"}}></i> Frontend</a>
-                        <a href="https://bespoke-beignet-69d673.netlify.app" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av">Live</a>
+                        <a href="https://lucky-lollipop-dfeee0.netlify.app" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av">Live</a>
                         <a href="https://github.com/InfantInnu/blog-backend" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av"><i className="bi bi-github" style={{color:"blue"}}></i> Backend</a>
                         </div>
                     </div>  
