@@ -67,13 +67,13 @@ export default function MediaCard() {
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="insidebox text-center">
                     <img className="img-size" src={project4} alt=""/>
-                        <h5>MERN Chat App</h5>
+                        <h5>MERN Group-Chat App</h5>
                         <div class="text">
-                        <span>Mern Chat app is designed for chatting with friends from any where and user free.</span></div>
+                        <span>Mern Chatify app is designed for chatting with friends from any where and user free.</span></div>
                         <div className='click'>
-                        <a href="https://github.com/InfantInnu/frontend-chatapp" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av"><i className="bi bi-github" style={{color:"blue"}}></i> Frontend</a>
-                        <a href="https://enchanting-sprite-cbb1aa.netlify.app" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av">Live</a>
-                        <a href="https://github.com/InfantInnu/backend--chatapp" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av"><i className="bi bi-github" style={{color:"blue"}}></i> Backend</a>
+                        <a href="https://github.com/InfantInnu/chatify-client" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av"><i className="bi bi-github" style={{color:"blue"}}></i> Frontend</a>
+                        <a href="https://polite-truffle-7ab9e6.netlify.app" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av">Live</a>
+                        <a href="https://github.com/InfantInnu/chatify-server" target="_blank" rel="noreferrer" className="btn btn-outline-secondary av"><i className="bi bi-github" style={{color:"blue"}}></i> Backend</a>
                         </div>
                         
                     </div>  
